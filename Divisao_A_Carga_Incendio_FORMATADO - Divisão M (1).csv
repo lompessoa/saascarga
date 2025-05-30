@@ -1,0 +1,311 @@
+Código,Descrição,Divisão,Carga de Incêndio,Descrição original
+M-01-0,Túnel,M-1,500,
+M-01-1,Túnel,M-1,500,Túnel
+M-01-2,Túnel,M-1,500,Túnel
+M-01-3,Túnel,M-1,500,Túnel
+M-02-0,Produção de gás; processamento de gás natural,M-2,4000,
+M-02-1,"de gás; processamento de gás natural, Produção",M-2,4000,Produção de gás; processamento de gás natural
+M-02-2,"Produção, de gás; processamento de gás natural",M-2,4000,Produção de gás; processamento de gás natural
+M-02-3,Produção de gás; processamento de gás natural,M-2,4000,Produção de gás; processamento de gás natural
+M-03-0,Distribuição de combustíveis gasosos por redes urbanas,M-2,4000,
+M-03-1,"de combustíveis gasosos por redes urbanas, Distribuição",M-2,4000,Distribuição de combustíveis gasosos por redes urbanas
+M-03-2,"Distribuição, de combustíveis gasosos por redes urbanas",M-2,4000,Distribuição de combustíveis gasosos por redes urbanas
+M-03-3,Distribuição de combustíveis gasosos por redes urbanas,M-2,4000,Distribuição de combustíveis gasosos por redes urbanas
+M-04-0,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado  por transportador retalhista (TRR)",M-2,2100,
+M-04-1,"atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado  por transportador retalhista (TRR), Comércio",M-2,2100,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado  por transportador retalhista (TRR)"
+M-04-2,"Comércio, atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado  por transportador retalhista (TRR)",M-2,2100,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado  por transportador retalhista (TRR)"
+M-04-3,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado  por transportador retalhista (TRR)",M-2,2100,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado  por transportador retalhista (TRR)"
+M-05-0,Comércio atacadista de combustíveis realizado por transportador retalhista (TRR),M-2,2100,
+M-05-1,"atacadista de combustíveis realizado por transportador retalhista (TRR), Comércio",M-2,2100,Comércio atacadista de combustíveis realizado por transportador retalhista (TRR)
+M-05-2,"Comércio, atacadista de combustíveis realizado por transportador retalhista (TRR)",M-2,2100,Comércio atacadista de combustíveis realizado por transportador retalhista (TRR)
+M-05-3,Comércio atacadista de combustíveis realizado por transportador retalhista (TRR),M-2,2100,Comércio atacadista de combustíveis realizado por transportador retalhista (TRR)
+M-06-0,"Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante",M-2,2100,
+M-06-1,"atacadista de combustíveis de origem vegetal, exceto álcool carburante, Comércio",M-2,2100,"Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante"
+M-06-2,"Comércio, atacadista de combustíveis de origem vegetal, exceto álcool carburante",M-2,2100,"Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante"
+M-06-3,"Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante",M-2,2100,"Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante"
+M-07-0,Comércio atacadista de combustíveis de origem mineral em bruto,M-2,2100,
+M-07-1,"atacadista de combustíveis de origem mineral em bruto, Comércio",M-2,2100,Comércio atacadista de combustíveis de origem mineral em bruto
+M-07-2,"Comércio, atacadista de combustíveis de origem mineral em bruto",M-2,2100,Comércio atacadista de combustíveis de origem mineral em bruto
+M-07-3,Comércio atacadista de combustíveis de origem mineral em bruto,M-2,2100,Comércio atacadista de combustíveis de origem mineral em bruto
+M-08-0,Comércio atacadista de lubrificantes,M-2,2100,
+M-08-1,"atacadista de lubrificantes, Comércio",M-2,2100,Comércio atacadista de lubrificantes
+M-08-2,"Comércio, atacadista de lubrificantes",M-2,2100,Comércio atacadista de lubrificantes
+M-08-3,Comércio atacadista de lubrificantes,M-2,2100,Comércio atacadista de lubrificantes
+M-09-0,Comércio atacadista de gás liquefeito de petróleo (GLP),M-2,2100,
+M-09-1,"atacadista de gás liquefeito de petróleo (GLP), Comércio",M-2,2100,Comércio atacadista de gás liquefeito de petróleo (GLP)
+M-09-2,"Comércio, atacadista de gás liquefeito de petróleo (GLP)",M-2,2100,Comércio atacadista de gás liquefeito de petróleo (GLP)
+M-09-3,Comércio atacadista de gás liquefeito de petróleo (GLP),M-2,2100,Comércio atacadista de gás liquefeito de petróleo (GLP)
+M-10-0,Comércio varejista de gás liquefeito de petróleo (GLP),M-2,2100,
+M-10-1,"varejista de gás liquefeito de petróleo (GLP), Comércio",M-2,2100,Comércio varejista de gás liquefeito de petróleo (GLP)
+M-10-2,"Comércio, varejista de gás liquefeito de petróleo (GLP)",M-2,2100,Comércio varejista de gás liquefeito de petróleo (GLP)
+M-10-3,Comércio varejista de gás liquefeito de petróleo (GLP),M-2,2100,Comércio varejista de gás liquefeito de petróleo (GLP)
+M-11-0,Fabricação de produtos do refino de petróleo,M-2,4000,
+M-11-1,"de produtos do refino de petróleo, Fabricação",M-2,4000,Fabricação de produtos do refino de petróleo
+M-11-2,"Fabricação, de produtos do refino de petróleo",M-2,4000,Fabricação de produtos do refino de petróleo
+M-11-3,Fabricação de produtos do refino de petróleo,M-2,4000,Fabricação de produtos do refino de petróleo
+M-12-0,Formulação de combustíveis,M-2,4000,
+M-12-1,"de combustíveis, Formulação",M-2,4000,Formulação de combustíveis
+M-12-2,"Formulação, de combustíveis",M-2,4000,Formulação de combustíveis
+M-12-3,Formulação de combustíveis,M-2,4000,Formulação de combustíveis
+M-13-0,Rerrefino de óleos lubrificantes,M-2,4000,
+M-13-1,"de óleos lubrificantes, Rerrefino",M-2,4000,Rerrefino de óleos lubrificantes
+M-13-2,"Rerrefino, de óleos lubrificantes",M-2,4000,Rerrefino de óleos lubrificantes
+M-13-3,Rerrefino de óleos lubrificantes,M-2,4000,Rerrefino de óleos lubrificantes
+M-14-0,"Fabricação de outros produtos derivados do petróleo, exceto produtos do refino",M-2,4000,
+M-14-1,"de outros produtos derivados do petróleo, exceto produtos do refino, Fabricação",M-2,4000,"Fabricação de outros produtos derivados do petróleo, exceto produtos do refino"
+M-14-2,"Fabricação, de outros produtos derivados do petróleo, exceto produtos do refino",M-2,4000,"Fabricação de outros produtos derivados do petróleo, exceto produtos do refino"
+M-14-3,"Fabricação de outros produtos derivados do petróleo, exceto produtos do refino",M-2,4000,"Fabricação de outros produtos derivados do petróleo, exceto produtos do refino"
+M-15-0,Fabricação de álcool,M-2,4000,
+M-15-1,"de álcool, Fabricação",M-2,4000,Fabricação de álcool
+M-15-2,"Fabricação, de álcool",M-2,4000,Fabricação de álcool
+M-15-3,Fabricação de álcool,M-2,4000,Fabricação de álcool
+M-16-0,"Fabricação de biocombustíveis, exceto álcool",M-2,4000,
+M-16-1,"de biocombustíveis, exceto álcool, Fabricação",M-2,4000,"Fabricação de biocombustíveis, exceto álcool"
+M-16-2,"Fabricação, de biocombustíveis, exceto álcool",M-2,4000,"Fabricação de biocombustíveis, exceto álcool"
+M-16-3,"Fabricação de biocombustíveis, exceto álcool",M-2,4000,"Fabricação de biocombustíveis, exceto álcool"
+M-17-0,Geração de energia elétrica,M-3,600,
+M-17-1,"de energia elétrica, Geração",M-3,600,Geração de energia elétrica
+M-17-2,"Geração, de energia elétrica",M-3,600,Geração de energia elétrica
+M-17-3,Geração de energia elétrica,M-3,600,Geração de energia elétrica
+M-18-0,Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica,M-3,600,
+M-18-1,"de coordenação e controle da operação da geração e transmissão de energia elétrica, Atividades",M-3,600,Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica
+M-18-2,"Atividades, de coordenação e controle da operação da geração e transmissão de energia elétrica",M-3,600,Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica
+M-18-3,Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica,M-3,600,Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica
+M-18-1,"de energia elétrica, Transmissão",M-3,200,Transmissão de energia elétrica
+M-18-2,"Transmissão, de energia elétrica",M-3,200,Transmissão de energia elétrica
+M-18-3,Transmissão de energia elétrica,M-3,200,Transmissão de energia elétrica
+M-19-0,Comércio atacadista de energia elétrica,M-3,200,
+M-19-1,"atacadista de energia elétrica, Comércio",M-3,200,Comércio atacadista de energia elétrica
+M-19-2,"Comércio, atacadista de energia elétrica",M-3,200,Comércio atacadista de energia elétrica
+M-19-3,Comércio atacadista de energia elétrica,M-3,200,Comércio atacadista de energia elétrica
+M-20-0,Distribuição de energia elétrica,M-3,200,
+M-20-1,"de energia elétrica, Distribuição",M-3,200,Distribuição de energia elétrica
+M-20-2,"Distribuição, de energia elétrica",M-3,200,Distribuição de energia elétrica
+M-20-3,Distribuição de energia elétrica,M-3,200,Distribuição de energia elétrica
+M-21-0,Manutenção de redes de distribuição de energia elétrica,M-3,600,
+M-21-1,"de redes de distribuição de energia elétrica, Manutenção",M-3,600,Manutenção de redes de distribuição de energia elétrica
+M-21-2,"Manutenção, de redes de distribuição de energia elétrica",M-3,600,Manutenção de redes de distribuição de energia elétrica
+M-21-3,Manutenção de redes de distribuição de energia elétrica,M-3,600,Manutenção de redes de distribuição de energia elétrica
+M-22-0,Manutenção de estações e redes de telecomunicações,M-3,200,
+M-22-1,"de estações e redes de telecomunicações, Manutenção",M-3,200,Manutenção de estações e redes de telecomunicações
+M-22-2,"Manutenção, de estações e redes de telecomunicações",M-3,200,Manutenção de estações e redes de telecomunicações
+M-22-3,Manutenção de estações e redes de telecomunicações,M-3,200,Manutenção de estações e redes de telecomunicações
+M-23-0,Serviços de telefonia fixa comutada - STFC,M-3,100,
+M-23-1,"de telefonia fixa comutada - STFC, Serviços",M-3,100,Serviços de telefonia fixa comutada - STFC
+M-23-2,"Serviços, de telefonia fixa comutada - STFC",M-3,100,Serviços de telefonia fixa comutada - STFC
+M-23-3,Serviços de telefonia fixa comutada - STFC,M-3,100,Serviços de telefonia fixa comutada - STFC
+M-24-0,Serviços de redes de transportes de telecomunicações - SRTT,M-3,100,
+M-24-1,"de redes de transportes de telecomunicações - SRTT, Serviços",M-3,100,Serviços de redes de transportes de telecomunicações - SRTT
+M-24-2,"Serviços, de redes de transportes de telecomunicações - SRTT",M-3,100,Serviços de redes de transportes de telecomunicações - SRTT
+M-24-3,Serviços de redes de transportes de telecomunicações - SRTT,M-3,100,Serviços de redes de transportes de telecomunicações - SRTT
+M-25-0,Serviços de comunicação multimídia - SCM,M-3,100,
+M-25-1,"de comunicação multimídia - SCM, Serviços",M-3,100,Serviços de comunicação multimídia - SCM
+M-25-2,"Serviços, de comunicação multimídia - SCM",M-3,100,Serviços de comunicação multimídia - SCM
+M-25-3,Serviços de comunicação multimídia - SCM,M-3,100,Serviços de comunicação multimídia - SCM
+M-26-0,Serviços de telecomunicações por fio não especificados anteriormente,M-3,100,
+M-26-1,"de telecomunicações por fio não especificados anteriormente, Serviços",M-3,100,Serviços de telecomunicações por fio não especificados anteriormente
+M-26-2,"Serviços, de telecomunicações por fio não especificados anteriormente",M-3,100,Serviços de telecomunicações por fio não especificados anteriormente
+M-26-3,Serviços de telecomunicações por fio não especificados anteriormente,M-3,100,Serviços de telecomunicações por fio não especificados anteriormente
+M-27-0,Serviço móvel especializado - SME,M-3,100,
+M-27-1,"móvel especializado - SME, Serviço",M-3,100,Serviço móvel especializado - SME
+M-27-2,"Serviço, móvel especializado - SME",M-3,100,Serviço móvel especializado - SME
+M-27-3,Serviço móvel especializado - SME,M-3,100,Serviço móvel especializado - SME
+M-28-0,Serviços de telecomunicações sem fio não especificados anteriormente,M-3,100,
+M-28-1,"de telecomunicações sem fio não especificados anteriormente, Serviços",M-3,100,Serviços de telecomunicações sem fio não especificados anteriormente
+M-28-2,"Serviços, de telecomunicações sem fio não especificados anteriormente",M-3,100,Serviços de telecomunicações sem fio não especificados anteriormente
+M-28-3,Serviços de telecomunicações sem fio não especificados anteriormente,M-3,100,Serviços de telecomunicações sem fio não especificados anteriormente
+M-29-0,Provedores de acesso às redes de comunicações,M-3,100,
+M-29-1,"de acesso às redes de comunicações, Provedores",M-3,100,Provedores de acesso às redes de comunicações
+M-29-2,"Provedores, de acesso às redes de comunicações",M-3,100,Provedores de acesso às redes de comunicações
+M-29-3,Provedores de acesso às redes de comunicações,M-3,100,Provedores de acesso às redes de comunicações
+M-30-0,Provedores de voz sobre protocolo internet - VOIP,M-3,100,
+M-30-1,"de voz sobre protocolo internet - VOIP, Provedores",M-3,100,Provedores de voz sobre protocolo internet - VOIP
+M-30-2,"Provedores, de voz sobre protocolo internet - VOIP",M-3,100,Provedores de voz sobre protocolo internet - VOIP
+M-30-3,Provedores de voz sobre protocolo internet - VOIP,M-3,100,Provedores de voz sobre protocolo internet - VOIP
+M-31-0,Telefonia móvel celular,M-3,100,
+M-31-1,"móvel celular, Telefonia",M-3,100,Telefonia móvel celular
+M-31-2,"Telefonia, móvel celular",M-3,100,Telefonia móvel celular
+M-31-3,Telefonia móvel celular,M-3,100,Telefonia móvel celular
+M-32-0,Construção de edifícios,M-4,300,
+M-32-1,"de edifícios, Construção",M-4,300,Construção de edifícios
+M-32-2,"Construção, de edifícios",M-4,300,Construção de edifícios
+M-32-3,Construção de edifícios,M-4,300,Construção de edifícios
+M-33-0,Construção de rodovias e ferrovias,M-4,300,
+M-33-1,"de rodovias e ferrovias, Construção",M-4,300,Construção de rodovias e ferrovias
+M-33-2,"Construção, de rodovias e ferrovias",M-4,300,Construção de rodovias e ferrovias
+M-33-3,Construção de rodovias e ferrovias,M-4,300,Construção de rodovias e ferrovias
+M-34-0,Pintura para sinalização em pistas rodoviárias e aeroportos,M-4,500,
+M-34-1,"para sinalização em pistas rodoviárias e aeroportos, Pintura",M-4,500,Pintura para sinalização em pistas rodoviárias e aeroportos
+M-34-2,"Pintura, para sinalização em pistas rodoviárias e aeroportos",M-4,500,Pintura para sinalização em pistas rodoviárias e aeroportos
+M-34-3,Pintura para sinalização em pistas rodoviárias e aeroportos,M-4,500,Pintura para sinalização em pistas rodoviárias e aeroportos
+M-35-0,Construção de obras de arte especiais,M-4,300,
+M-35-1,"de obras de arte especiais, Construção",M-4,300,Construção de obras de arte especiais
+M-35-2,"Construção, de obras de arte especiais",M-4,300,Construção de obras de arte especiais
+M-35-3,Construção de obras de arte especiais,M-4,300,Construção de obras de arte especiais
+M-36-0,"Obras de urbanização - ruas, praças e calçadas",M-4,400,
+M-36-1,"de urbanização - ruas, praças e calçadas, Obras",M-4,400,"Obras de urbanização - ruas, praças e calçadas"
+M-36-2,"Obras, de urbanização - ruas, praças e calçadas",M-4,400,"Obras de urbanização - ruas, praças e calçadas"
+M-36-3,"Obras de urbanização - ruas, praças e calçadas",M-4,400,"Obras de urbanização - ruas, praças e calçadas"
+M-37-0,Construção de barragens e represas para geração de energia elétrica,M-4,300,
+M-37-1,"de barragens e represas para geração de energia elétrica, Construção",M-4,300,Construção de barragens e represas para geração de energia elétrica
+M-37-2,"Construção, de barragens e represas para geração de energia elétrica",M-4,300,Construção de barragens e represas para geração de energia elétrica
+M-37-3,Construção de barragens e represas para geração de energia elétrica,M-4,300,Construção de barragens e represas para geração de energia elétrica
+M-38-0,Construção de estações e redes de distribuição de energia elétrica,M-4,300,
+M-38-1,"de estações e redes de distribuição de energia elétrica, Construção",M-4,300,Construção de estações e redes de distribuição de energia elétrica
+M-38-2,"Construção, de estações e redes de distribuição de energia elétrica",M-4,300,Construção de estações e redes de distribuição de energia elétrica
+M-38-3,Construção de estações e redes de distribuição de energia elétrica,M-4,300,Construção de estações e redes de distribuição de energia elétrica
+M-39-0,Construção de estações e redes de telecomunicações,M-4,300,
+M-39-1,"de estações e redes de telecomunicações, Construção",M-4,300,Construção de estações e redes de telecomunicações
+M-39-2,"Construção, de estações e redes de telecomunicações",M-4,300,Construção de estações e redes de telecomunicações
+M-39-3,Construção de estações e redes de telecomunicações,M-4,300,Construção de estações e redes de telecomunicações
+M-40-0,"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação",M-4,300,
+M-40-1,"de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação, Construção",M-4,300,"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação"
+M-40-2,"Construção, de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação",M-4,300,"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação"
+M-40-3,"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação",M-4,300,"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação"
+M-41-0,Obras de irrigação,M-4,300,
+M-41-1,"de irrigação, Obras",M-4,300,Obras de irrigação
+M-41-2,"Obras, de irrigação",M-4,300,Obras de irrigação
+M-41-3,Obras de irrigação,M-4,300,Obras de irrigação
+M-42-0,"Construção de redes de transportes por dutos, exceto para água e esgoto",M-4,300,
+M-42-1,"de redes de transportes por dutos, exceto para água e esgoto, Construção",M-4,300,"Construção de redes de transportes por dutos, exceto para água e esgoto"
+M-42-2,"Construção, de redes de transportes por dutos, exceto para água e esgoto",M-4,300,"Construção de redes de transportes por dutos, exceto para água e esgoto"
+M-42-3,"Construção de redes de transportes por dutos, exceto para água e esgoto",M-4,300,"Construção de redes de transportes por dutos, exceto para água e esgoto"
+M-43-0,"Obras portuárias, marítimas e fluviais",M-4,300,
+M-43-1,"portuárias, marítimas e fluviais, Obras",M-4,300,"Obras portuárias, marítimas e fluviais"
+M-43-2,"Obras, portuárias, marítimas e fluviais",M-4,300,"Obras portuárias, marítimas e fluviais"
+M-43-3,"Obras portuárias, marítimas e fluviais",M-4,300,"Obras portuárias, marítimas e fluviais"
+M-44-0,Montagem de estruturas metálicas,M-4,200,
+M-44-1,"de estruturas metálicas, Montagem",M-4,200,Montagem de estruturas metálicas
+M-44-2,"Montagem, de estruturas metálicas",M-4,200,Montagem de estruturas metálicas
+M-44-3,Montagem de estruturas metálicas,M-4,200,Montagem de estruturas metálicas
+M-45-0,Obras de montagem industrial,M-4,200,
+M-45-1,"de montagem industrial, Obras",M-4,200,Obras de montagem industrial
+M-45-2,"Obras, de montagem industrial",M-4,200,Obras de montagem industrial
+M-45-3,Obras de montagem industrial,M-4,200,Obras de montagem industrial
+M-46-0,Construção de instalações esportivas e recreativas,M-4,300,
+M-46-1,"de instalações esportivas e recreativas, Construção",M-4,300,Construção de instalações esportivas e recreativas
+M-46-2,"Construção, de instalações esportivas e recreativas",M-4,300,Construção de instalações esportivas e recreativas
+M-46-3,Construção de instalações esportivas e recreativas,M-4,300,Construção de instalações esportivas e recreativas
+M-47-0,Outras obras de engenharia civil não especificadas anteriormente,M-4,300,
+M-47-1,"obras de engenharia civil não especificadas anteriormente, Outras",M-4,300,Outras obras de engenharia civil não especificadas anteriormente
+M-47-2,"Outras, obras de engenharia civil não especificadas anteriormente",M-4,300,Outras obras de engenharia civil não especificadas anteriormente
+M-47-3,Outras obras de engenharia civil não especificadas anteriormente,M-4,300,Outras obras de engenharia civil não especificadas anteriormente
+M-48-0,Demolição de edifícios e outras estruturas,M-4,300,
+M-48-1,"de edifícios e outras estruturas, Demolição",M-4,300,Demolição de edifícios e outras estruturas
+M-48-2,"Demolição, de edifícios e outras estruturas",M-4,300,Demolição de edifícios e outras estruturas
+M-48-3,Demolição de edifícios e outras estruturas,M-4,300,Demolição de edifícios e outras estruturas
+M-49-0,Preparação de canteiro e limpeza de terreno,M-4,300,
+M-49-1,"de canteiro e limpeza de terreno, Preparação",M-4,300,Preparação de canteiro e limpeza de terreno
+M-49-2,"Preparação, de canteiro e limpeza de terreno",M-4,300,Preparação de canteiro e limpeza de terreno
+M-49-3,Preparação de canteiro e limpeza de terreno,M-4,300,Preparação de canteiro e limpeza de terreno
+M-50-0,Perfurações e sondagens,M-4,300,
+M-50-1,"e sondagens, Perfurações",M-4,300,Perfurações e sondagens
+M-50-2,"Perfurações, e sondagens",M-4,300,Perfurações e sondagens
+M-50-3,Perfurações e sondagens,M-4,300,Perfurações e sondagens
+M-51-0,Obras de terraplenagem,M-4,300,
+M-51-1,"de terraplenagem, Obras",M-4,300,Obras de terraplenagem
+M-51-2,"Obras, de terraplenagem",M-4,300,Obras de terraplenagem
+M-51-3,Obras de terraplenagem,M-4,300,Obras de terraplenagem
+M-52-0,Serviços de preparação do terreno não especificados anteriormente,M-4,300,
+M-52-1,"de preparação do terreno não especificados anteriormente, Serviços",M-4,300,Serviços de preparação do terreno não especificados anteriormente
+M-52-2,"Serviços, de preparação do terreno não especificados anteriormente",M-4,300,Serviços de preparação do terreno não especificados anteriormente
+M-52-3,Serviços de preparação do terreno não especificados anteriormente,M-4,300,Serviços de preparação do terreno não especificados anteriormente
+M-53-0,Instalação e manutenção elétrica,M-4,600,
+M-53-1,"e manutenção elétrica, Instalação",M-4,600,Instalação e manutenção elétrica
+M-53-2,"Instalação, e manutenção elétrica",M-4,600,Instalação e manutenção elétrica
+M-53-3,Instalação e manutenção elétrica,M-4,600,Instalação e manutenção elétrica
+M-54-0,"Instalações hidráulicas, sanitárias e de gás",M-4,700,
+M-54-1,"hidráulicas, sanitárias e de gás, Instalações",M-4,700,"Instalações hidráulicas, sanitárias e de gás"
+M-54-2,"Instalações, hidráulicas, sanitárias e de gás",M-4,700,"Instalações hidráulicas, sanitárias e de gás"
+M-54-3,"Instalações hidráulicas, sanitárias e de gás",M-4,700,"Instalações hidráulicas, sanitárias e de gás"
+M-55-0,"Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração",M-4,600,
+M-55-1,"e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração, Instalação",M-4,600,"Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração"
+M-55-2,"Instalação, e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração",M-4,600,"Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração"
+M-55-3,"Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração",M-4,600,"Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração"
+M-56-0,Instalações de sistema de prevenção contra incêndio,M-4,40,
+M-56-1,"de sistema de prevenção contra incêndio, Instalações",M-4,40,Instalações de sistema de prevenção contra incêndio
+M-56-2,"Instalações, de sistema de prevenção contra incêndio",M-4,40,Instalações de sistema de prevenção contra incêndio
+M-56-3,Instalações de sistema de prevenção contra incêndio,M-4,40,Instalações de sistema de prevenção contra incêndio
+M-57-0,Instalação de painéis publicitários,M-4,600,
+M-57-1,"de painéis publicitários, Instalação",M-4,600,Instalação de painéis publicitários
+M-57-2,"Instalação, de painéis publicitários",M-4,600,Instalação de painéis publicitários
+M-57-3,Instalação de painéis publicitários,M-4,600,Instalação de painéis publicitários
+M-57-1,"de equipamentos para orientação à navegação marítima, fluvial e lacustre, Instalação",M-4,400,"Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre"
+M-57-2,"Instalação, de equipamentos para orientação à navegação marítima, fluvial e lacustre",M-4,400,"Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre"
+M-57-3,"Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre",M-4,400,"Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre"
+M-58-0,"Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes",M-4,600,
+M-58-1,"manutenção e reparação de elevadores, escadas e esteiras rolantes, Instalação,",M-4,600,"Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes"
+M-58-2,"Instalação,, manutenção e reparação de elevadores, escadas e esteiras rolantes",M-4,600,"Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes"
+M-58-3,"Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes",M-4,600,"Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes"
+M-59-0,"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos",M-4,400,
+M-59-1,"e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos, Montagem",M-4,400,"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos"
+M-59-2,"Montagem, e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos",M-4,400,"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos"
+M-59-3,"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos",M-4,400,"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos"
+M-60-0,"Tratamentos térmicos, acústicos ou de vibração",M-4,200,
+M-60-1,"térmicos, acústicos ou de vibração, Tratamentos",M-4,200,"Tratamentos térmicos, acústicos ou de vibração"
+M-60-2,"Tratamentos, térmicos, acústicos ou de vibração",M-4,200,"Tratamentos térmicos, acústicos ou de vibração"
+M-60-3,"Tratamentos térmicos, acústicos ou de vibração",M-4,200,"Tratamentos térmicos, acústicos ou de vibração"
+M-61-0,Outras obras de instalações em construções não especificadas anteriormente,M-4,400,
+M-61-1,"obras de instalações em construções não especificadas anteriormente, Outras",M-4,400,Outras obras de instalações em construções não especificadas anteriormente
+M-61-2,"Outras, obras de instalações em construções não especificadas anteriormente",M-4,400,Outras obras de instalações em construções não especificadas anteriormente
+M-61-3,Outras obras de instalações em construções não especificadas anteriormente,M-4,400,Outras obras de instalações em construções não especificadas anteriormente
+M-62-0,Impermeabilização em obras de engenharia civil,M-4,3000,
+M-62-1,"em obras de engenharia civil, Impermeabilização",M-4,3000,Impermeabilização em obras de engenharia civil
+M-62-2,"Impermeabilização, em obras de engenharia civil",M-4,3000,Impermeabilização em obras de engenharia civil
+M-62-3,Impermeabilização em obras de engenharia civil,M-4,3000,Impermeabilização em obras de engenharia civil
+M-63-0,"Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material",M-4,500,
+M-63-1,"de portas, janelas, tetos, divisórias e armários embutidos de qualquer material, Instalação",M-4,500,"Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+M-63-2,"Instalação, de portas, janelas, tetos, divisórias e armários embutidos de qualquer material",M-4,500,"Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+M-63-3,"Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material",M-4,500,"Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+M-64-0,Obras de acabamento em gesso e estuque,M-4,80,
+M-64-1,"de acabamento em gesso e estuque, Obras",M-4,80,Obras de acabamento em gesso e estuque
+M-64-2,"Obras, de acabamento em gesso e estuque",M-4,80,Obras de acabamento em gesso e estuque
+M-64-3,Obras de acabamento em gesso e estuque,M-4,80,Obras de acabamento em gesso e estuque
+M-65-0,Aplicação de revestimentos e de resinas em interiores e exteriores,M-4,3000,
+M-65-1,"de revestimentos e de resinas em interiores e exteriores, Aplicação",M-4,3000,Aplicação de revestimentos e de resinas em interiores e exteriores
+M-65-2,"Aplicação, de revestimentos e de resinas em interiores e exteriores",M-4,3000,Aplicação de revestimentos e de resinas em interiores e exteriores
+M-65-3,Aplicação de revestimentos e de resinas em interiores e exteriores,M-4,3000,Aplicação de revestimentos e de resinas em interiores e exteriores
+M-66-0,Outras obras de acabamento da construção,M-4,500,
+M-66-1,"obras de acabamento da construção, Outras",M-4,500,Outras obras de acabamento da construção
+M-66-2,"Outras, obras de acabamento da construção",M-4,500,Outras obras de acabamento da construção
+M-66-3,Outras obras de acabamento da construção,M-4,500,Outras obras de acabamento da construção
+M-67-0,Obras de fundações,M-4,300,
+M-67-1,"de fundações, Obras",M-4,300,Obras de fundações
+M-67-2,"Obras, de fundações",M-4,300,Obras de fundações
+M-67-3,Obras de fundações,M-4,300,Obras de fundações
+M-68-0,Montagem e desmontagem de andaimes e outras estruturas temporárias,M-4,200,
+M-68-1,"e desmontagem de andaimes e outras estruturas temporárias, Montagem",M-4,200,Montagem e desmontagem de andaimes e outras estruturas temporárias
+M-68-2,"Montagem, e desmontagem de andaimes e outras estruturas temporárias",M-4,200,Montagem e desmontagem de andaimes e outras estruturas temporárias
+M-68-3,Montagem e desmontagem de andaimes e outras estruturas temporárias,M-4,200,Montagem e desmontagem de andaimes e outras estruturas temporárias
+M-69-0,Obras de alvenaria,M-4,40,
+M-69-1,"de alvenaria, Obras",M-4,40,Obras de alvenaria
+M-69-2,"Obras, de alvenaria",M-4,40,Obras de alvenaria
+M-69-3,Obras de alvenaria,M-4,40,Obras de alvenaria
+M-70-0,Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras,M-4,300,
+M-70-1,"de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras, Serviços",M-4,300,Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras
+M-70-2,"Serviços, de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras",M-4,300,Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras
+M-70-3,Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras,M-4,300,Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras
+M-71-0,Perfuração e construção de poços de água,M-4,300,
+M-71-1,"e construção de poços de água, Perfuração",M-4,300,Perfuração e construção de poços de água
+M-71-2,"Perfuração, e construção de poços de água",M-4,300,Perfuração e construção de poços de água
+M-71-3,Perfuração e construção de poços de água,M-4,300,Perfuração e construção de poços de água
+M-72-0,Serviços especializados para construção não especificados  anteriormente,M-4,300,
+M-72-1,"especializados para construção não especificados  anteriormente, Serviços",M-4,300,Serviços especializados para construção não especificados  anteriormente
+M-72-2,"Serviços, especializados para construção não especificados  anteriormente",M-4,300,Serviços especializados para construção não especificados  anteriormente
+M-72-3,Serviços especializados para construção não especificados  anteriormente,M-4,300,Serviços especializados para construção não especificados  anteriormente
+M-73-0,Restauração e conservação de lugares e prédios históricos,M-4,300,
+M-73-1,"e conservação de lugares e prédios históricos, Restauração",M-4,300,Restauração e conservação de lugares e prédios históricos
+M-73-2,"Restauração, e conservação de lugares e prédios históricos",M-4,300,Restauração e conservação de lugares e prédios históricos
+M-73-3,Restauração e conservação de lugares e prédios históricos,M-4,300,Restauração e conservação de lugares e prédios históricos
+M-74-0,Silos,M-5,1000,
+M-74-1,Silos,M-5,1000,Silos
+M-74-2,Silos,M-5,1000,Silos
+M-74-3,Silos,M-5,1000,Silos
+M-75-0,"Atividades de jardins botânicos, zoológicos, parques nacionais,  reservas ecológicas e áreas de proteção ambiental ²",M-6,500,
+M-75-1,"de jardins botânicos, zoológicos, parques nacionais,  reservas ecológicas e áreas de proteção ambiental ², Atividades",M-6,500,"Atividades de jardins botânicos, zoológicos, parques nacionais,  reservas ecológicas e áreas de proteção ambiental ²"
+M-75-2,"Atividades, de jardins botânicos, zoológicos, parques nacionais,  reservas ecológicas e áreas de proteção ambiental ²",M-6,500,"Atividades de jardins botânicos, zoológicos, parques nacionais,  reservas ecológicas e áreas de proteção ambiental ²"
+M-75-3,"Atividades de jardins botânicos, zoológicos, parques nacionais,  reservas ecológicas e áreas de proteção ambiental ²",M-6,500,"Atividades de jardins botânicos, zoológicos, parques nacionais,  reservas ecológicas e áreas de proteção ambiental ²"
+M-76-0,Pátio de containers,M-7,400,
+M-76-1,"de containers, Pátio",M-7,400,Pátio de containers
+M-76-2,"Pátio, de containers",M-7,400,Pátio de containers
+M-76-3,Pátio de containers,M-7,400,Pátio de containers
