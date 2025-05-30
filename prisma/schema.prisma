@@ -1,7 +1,8 @@
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
+
 
 generator client {
   provider = "prisma-client-js"
@@ -14,4 +15,6 @@ model CargaIncendio {
   divisao   String
   carga     Float
   referencia String
+
+  @@map("CargaIncendio") // <-- OPCIONAL: mantém o nome da tabela com maiúscula no banco
 }

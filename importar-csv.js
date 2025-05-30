@@ -12,30 +12,31 @@ async function importarCSV() {
     .pipe(csv())
     .on('data', (row) => {
       resultados.push(row);
+      if (resultados.length % 100 === 0) {
+        console.log(`Lidos ${resultados.length} registros do CSV até agora...`);
+      }
     })
     .on('end', async () => {
-      for (const linha of resultados) {
-        // Tenta converter a carga para número
-        const cargaValor = Number(linha['Carga de Incêndio']);
-        if (isNaN(cargaValor)) {
-          console.warn(
-            `⚠️  Carga inválida para código ${linha['Código']}: valor encontrado = '${linha['Carga de Incêndio']}'. Será importado como 0.`
-          );
-        }
-        await prisma.cargaIncendio.upsert({
-          where: { codigo: linha['Código'] },
-          update: {},
-          create: {
-            codigo: linha['Código'],
-            descricao: linha['Descrição'],
-            divisao: linha['Divisão'],
-            carga: isNaN(cargaValor) ? 0 : cargaValor,
-            referencia: linha['Descrição original'] || "",
-          },
+      console.log(`Total de registros lidos do CSV: ${resultados.length}`);
+      const dados = resultados.map(linha => ({
+        codigo: linha['Código'],
+        descricao: linha['Descrição'],
+        divisao: linha['Divisão'],
+        carga: isNaN(Number(linha['Carga de Incêndio'])) ? 0 : Number(linha['Carga de Incêndio']),
+        referencia: linha['Descrição original'] || "",
+      }));
+
+      try {
+        await prisma.cargaIncendio.createMany({
+          data: dados,
+          skipDuplicates: true,
         });
+        console.log(`Importação concluída! Total de linhas importadas: ${dados.length}`);
+      } catch (error) {
+        console.error("Erro ao importar:", error.message);
+      } finally {
+        await prisma.$disconnect();
       }
-      console.log('Importação concluída!');
-      await prisma.$disconnect();
     });
 }
 
